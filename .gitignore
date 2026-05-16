@@ -1,0 +1,7 @@
+data/
+*.csv
+*.db
+*.log
+pycache/
+*.pyc
+.env
