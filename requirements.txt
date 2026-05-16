@@ -1,0 +1,13 @@
+google-play-scraper>=1.2.0
+pandas>=2.0.0
+spacy>=3.7.0
+transformers>=4.36.0
+torch>=2.1.0
+nltk>=3.8.1
+scikit-learn>=1.3.0
+matplotlib>=3.7.0
+seaborn>=0.13.0
+textblob>=0.17.1
+vaderSentiment>=3.3.2
+psycopg2-binary>=2.9.9   # for Task 3
+pytest>=7.4.0
